@@ -11,5 +11,8 @@ A procedural maze generated in Unity using A* Algorithm for navigation y the lab
 
 # Making of
 
-Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KEG-WDzxqWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Youtube video](https://www.youtube.com/embed/KEG-WDzxqWI)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KEG-WDzxqWI" title="YouTube video player" frameborder="0" allow="autoplay" allowfullscreen data-external="1"></iframe>
+
+
